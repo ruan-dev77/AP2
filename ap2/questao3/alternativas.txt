@@ -1,0 +1,4 @@
+A- Usando um codigo de medição de tempo de execução o tempo para retornar o resultado do quick sort(8-10 milisegundos) foi consideravelmente menor que o bubble sort(30-35 milisegundos).
+
+B-Dividir o ploblema em partes menores oque faz com que o codigo realize menos comparações e trocas, oque o torna o código mais eficiente.
+

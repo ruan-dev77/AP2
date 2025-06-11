@@ -1,0 +1,2 @@
+A-O bubble sort seria mais eficiente se a lista tivesse quase ordenada
+,porque ele é projetado para intemrromper a ordenação cedo se nenhuma troca for feita.

@@ -1,0 +1,9 @@
+Análise das Vantagens 
+Busca Linear:
+-Implementação simples
+-Não é necessario ordenar as listas;
+
+Busca Binária:
+-O numero de passo necessarios para encontrar os resultados são bem menores.
+-retorna o resultado mais rápido.
+-Não é necessario percorrer toda a lista.
